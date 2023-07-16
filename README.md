@@ -1,13 +1,30 @@
-### Hi there 👋
+<div align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=75&center=true&vCenter=true&width=2500&height=100&lines=I'm+Stephen,+Welcome+to+my+GitHub!+"></a>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+  <img src="https://komarev.com/ghpvc/?username=stephen1eung&color=orange&style=for-the-badge&label=PROFILE+VIEWS" />
+</div>
 
-### 📚 I'm currently majoring in Computer Science at Simon Fraser University
-### 🔭 I’m currently working on a weather application
-### 🌱 I’m currently learning better and modern coding practices
-### 👯 I’m looking to meet new people and network
-### 📫 How to reach me: LinkedIn
-### ⚡ Interests: Games / Cars / Food / Space / Photography
+<div align="center">
+  <a href= "https://www.linkedin.com/in/stephen1eung/">
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-%2314354C?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <a href= "mailto:stephen1eung@hotmail.com">
+    <img src="https://img.shields.io/badge/email%20me-%2314354C?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+</div>
 
-### :scroll: Languages/APIs/Libraries
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b> About Me </b>
+- </h3>📚 I’m currently majoring in Computer Science at Simon Fraser University
+- </h3>💻 I’m currently working at M2M Tech Inc
+- </h3>🌱 I’m looking to learning better coding practices
+- </h3>👯 I’m looking to meet new people / opportunities
+- </h3>⚡ I’m interested in: Games / Cars / Food / Space / Photography
+- </h3>📫 How to reach me: LinkedIn / Email
+
+
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b> Technical Skills </b>
+- **<h3>Languages</h3>**
 <div align="center">
   <h3></h3>
   <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
@@ -21,19 +38,11 @@
   <img src="https://img.shields.io/badge/terminal%20commands-black?style=for-the-badge&logo=windowsterminal&logoColor=white" />
 </div>
 
-### :hammer_and_pick: Tools/Softwares
-
+- **<h3>Operating Systems</h3>**
 <div align="center">
   <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/macos-white?style=for-the-badge&logo=macOS&logoColor=black" />
-  <img src="https://img.shields.io/badge/unreal%20engine-black?style=for-the-badge&logo=UnrealEngine&logoColor=white" />
-  <img src="https://img.shields.io/badge/gitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/intellij-D33C7B?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/photoshop-2F9FF2?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/after%20effects-000056?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
-  <img src="https://img.shields.io/badge/premiere%20pro-000056?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
-  <img src="https://img.shields.io/badge/blender-DC770C?style=for-the-badge&logo=blender&logoColor=white" />
 </div>
+
+- **<h3>Software and Tools</h3>**
