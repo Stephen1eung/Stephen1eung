@@ -33,9 +33,7 @@
   <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/terminal%20commands-black?style=for-the-badge&logo=windowsterminal&logoColor=white" />
 </div>
 
 - **<h3>Operating Systems</h3>**
@@ -46,3 +44,7 @@
 </div>
 
 - **<h3>Software and Tools</h3>**
+<div align="center">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/terminal%20commands-black?style=for-the-badge&logo=windowsterminal&logoColor=white" />
+</div>
