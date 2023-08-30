@@ -47,4 +47,5 @@
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/terminal%20commands-black?style=for-the-badge&logo=windowsterminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft-Azure?style=for-the-badge&logo=microsoftazure&color=%230078D4" />
 </div>
