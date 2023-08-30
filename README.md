@@ -36,6 +36,13 @@
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </div>
 
+- **<h3>Software and Tools</h3>**
+<div align="center">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/terminal%20commands-black?style=for-the-badge&logo=windowsterminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft-Azure?style=for-the-badge&logo=microsoftazure&color=%230078D4" />
+</div>
+
 - **<h3>Operating Systems</h3>**
 <div align="center">
   <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
@@ -43,9 +50,3 @@
   <img src="https://img.shields.io/badge/macos-white?style=for-the-badge&logo=macOS&logoColor=black" />
 </div>
 
-- **<h3>Software and Tools</h3>**
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/terminal%20commands-black?style=for-the-badge&logo=windowsterminal&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft-Azure?style=for-the-badge&logo=microsoftazure&color=%230078D4" />
-</div>
