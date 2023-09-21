@@ -36,6 +36,11 @@
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </div>
 
+- **<h3>Certifications</h3>**
+<div align="center">
+  <img src="https://img.shields.io/badge/Microsoft-Azure?style=for-the-badge&logo=microsoftazure&color=%230078D4" />
+</div>
+
 - **<h3>Software and Tools</h3>**
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
