@@ -9,7 +9,8 @@
   <img src="https://img.shields.io/badge/LinkedIn-%2314354C?style=for-the-badge&logo=linkedin&logoColor=white" />
       <a href= "mailto:stephen1eung@hotmail.com">
   <img src="https://img.shields.io/badge/email%20me-%2314354C?style=for-the-badge&logo=Gmail&logoColor=white" />
-
+</div>
+        
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b> About Me </b>
 - </h3>📚 I’m currently majoring in Computer Science at Simon Fraser University
 - </h3>💻 I’m currently working at M2M Tech Inc
