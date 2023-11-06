@@ -5,12 +5,12 @@
 </div>
 
 <div align="center">
-  <a href= "https://www.linkedin.com/in/stephen1eung/">
 </div>
 <div align="center">
+      <a href= "https://www.linkedin.com/in/stephen1eung/">
   <img src="https://img.shields.io/badge/LinkedIn-%2314354C?style=for-the-badge&logo=linkedin&logoColor=white" />
       <a href= "mailto:stephen1eung@hotmail.com">
-    <img src="https://img.shields.io/badge/email%20me-%2314354C?style=for-the-badge&logo=Gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/email%20me-%2314354C?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
 </div>
 
