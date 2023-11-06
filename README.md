@@ -17,10 +17,11 @@
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b> About Me </b>
 - </h3>📚 I’m currently majoring in Computer Science at Simon Fraser University
 - </h3>💻 I’m currently working at M2M Tech Inc
+- </h3>💻 I’m currently learning Machine Learning
 - </h3>🌱 I’m looking to learning better coding practices
 - </h3>👯 I’m looking to meet new people / opportunities
 - </h3>⚡ I’m interested in: Games / Cars / Food / Space / Photography
-- </h3>📫 How to reach me: LinkedIn / Email
+- </h3>📫 How to reach me through: LinkedIn / Email
 
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b> Technical Skills </b>
