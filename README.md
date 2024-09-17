@@ -17,7 +17,6 @@
 - </h3>💻 I’m currently learning Machine Learning
 - </h3>🌱 I’m looking to learning better coding practices
 - </h3>👯 I’m looking to meet new people / opportunities
-- </h3>⚡ I’m interested in: Games / Cars / Food / Space / Photography
 - </h3>📫 How to reach me through: LinkedIn / Email
 
 
