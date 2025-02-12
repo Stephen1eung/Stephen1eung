@@ -12,10 +12,9 @@
 </div>
         
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b> About Me </b>
-- </h3>📚 I’m currently majoring in Computer Science at Simon Fraser University
+- </h3>📚 I’m currently majoring in Computer Science at Simon Fraser University, specializing in Artificial Intelligence
 - </h3>💻 I’m currently working at M2M Tech Inc
 - </h3>💻 I’m currently learning Machine Learning
-- </h3>🌱 I’m looking to learning better coding practices
 - </h3>👯 I’m looking to meet new people / opportunities
 - </h3>📫 How to reach me through: LinkedIn / Email
 
@@ -28,21 +27,27 @@
   <img src="https://img.shields.io/badge/java-D96900?style=for-the-badge&logo=java&logoColor=black" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?logo=database&logoColor=white&style=for-the-badge" />
 </div>
 
 - **<h3>Certifications</h3>**
 <div align="center">
-  <img src="https://img.shields.io/badge/Microsoft-Azure?style=for-the-badge&logo=microsoftazure&color=%230078D4" />
+  <img src="https://img.shields.io/badge/AI--102_:_Azure_AI_Engineer_Associate-0078D4?style=for-the-badge" />
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/AI--900_:_Azure_AI_Fundamentals-0078D4?style=for-the-badge" />
+</div>
+
+- **<h3>Cloud Platforms</h3>**
+<div align="center">
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" />
 </div>
 
 - **<h3>Software and Tools</h3>**
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/terminal%20commands-black?style=for-the-badge&logo=windowsterminal&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft-Azure?style=for-the-badge&logo=microsoftazure&color=%230078D4" />
 </div>
 
 - **<h3>Operating Systems</h3>**
